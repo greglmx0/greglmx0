@@ -7,16 +7,11 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
-
 <p align="center">
   <img src="matrix.gif" alt="cat">
 </p>
 
-
-
-
 <!-- <div style="display: flex; justify-content: space-between;"> -->
-
 
  <div>
   <h3 align="center">My favourite stacks</h3>
@@ -38,11 +33,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   </p>
 
-  <h3 align="center">Mobile</h3>
+  <!-- <h3 align="center">Mobile</h3>
   <p align="center"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   </p>
- </div>
+ </div> -->
 
   <!-- <div>
 
